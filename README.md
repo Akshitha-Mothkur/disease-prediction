@@ -32,7 +32,7 @@ disease_prediction/
 🚀 How to Run
 1️⃣ Clone the repository:
   git clone https://github.com/Akshitha-Mothkur/disease-prediction
-  cd disease_prediction
+  cd disease-prediction
 
 2️⃣ Install dependencies:
   pip install -r requirements.txt
